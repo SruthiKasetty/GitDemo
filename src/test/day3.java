@@ -26,6 +26,7 @@ public class day3 {
 	public void LoginAPiCarloan()
 	{
 		System.out.println("API LOgin Car Loan");
+		System.out.println("Git Demo");
 	}
 	@DataProvider
 	public Object[][] getdata()
