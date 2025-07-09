@@ -21,4 +21,18 @@ public class day1 {
 		System.out.println("Test NG2");
 	
 	}
+
+	@Test
+	public void Close()
+	{
+		System.out.println("Test NG1");
+	
+	}
+
+	@Test
+	public void Close2()
+	{
+		System.out.println("Test NG1");
+	
+	}
 }

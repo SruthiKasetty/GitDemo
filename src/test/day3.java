@@ -28,6 +28,12 @@ public class day3 {
 		System.out.println("API LOgin Car Loan");
 		System.out.println("Git Demo");
 	}
+	@Test
+	public void LoginAPiCar2()
+	{
+		System.out.println("API LOgin Car Loan");
+		System.out.println("Git Demo");
+	}
 	@DataProvider
 	public Object[][] getdata()
 	{
